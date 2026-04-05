@@ -2,7 +2,7 @@
 // + Discord: warriorog.exe_
 // + Community: https://discord.gg/aerox (AeroX Development )
 // + for any queries reach out Community or DM me.
-
+import 'dotenv/config';
 import { Client, GatewayIntentBits, Collection, Partials } from 'discord.js';
 import { readdirSync } from 'fs';
 import { fileURLToPath, pathToFileURL } from 'url';
